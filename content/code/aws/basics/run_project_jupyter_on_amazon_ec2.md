@@ -79,7 +79,7 @@ Log into AWS and go to the EC2 main page. Then you will see a 'Launch Instance' 
 
 ## Download Anaconda to instance
 
-Visit Anaconda's [download page](https://www.continuum.io/downloads) and right click to get the url of the latest version of the Linux 64-bit version. In my case this url was:
+Visit Anaconda's [download page](https://www.anaconda.com/products/individual) and right click to get the url of the latest version of the Linux 64-bit version. In my case this url was:
 
 `https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh`
 
